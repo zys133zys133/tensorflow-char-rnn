@@ -4,7 +4,7 @@ A TensorFlow implementation of Andrej Karpathy's [Char-RNN](https://github.com/k
 # Installation
 
 ## Dependencies
-- Python 2.7
+- Python 3.6
 - TensorFlow >= 1.2
 
 Follow the instructions on [TensorFlow official website](https://www.tensorflow.org/) to install TensorFlow. 
